@@ -1,2 +1,2 @@
-Еще одна строка, добавили.
-строка 
+print("Hello, world")
+print("Test")
